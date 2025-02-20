@@ -1,10 +1,10 @@
-<h2> DjangoAPI </h2>
+# DjangoAPI 
 Some useful Django API for backend development.
 
-<h4> Updates </h4>
+### Updates
 20/02 = Added an Example table with OOP for CRUD
 
-<h3>Installation</h3>
+## Installation
 Clone this repo:
 ```bash
 git clone https://github.com/gobbez/DjangoAPI
@@ -15,7 +15,7 @@ cd API
 python manage.py runserver
 ```
 
-<h3>How to use</h3>
+## How to use
 You can send GET or POST requests via Postman (or browser for get).
 Check each folder views.py to see what routes are present and how to use them!
 
