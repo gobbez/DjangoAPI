@@ -17,6 +17,6 @@ python manage.py runserver
 
 ## How to use
 You can send GET or POST requests via Postman (or browser for get).
-Check each folder views.py to see what routes are present and how to use them!
+Check each folder views.py to see which routes are present and how to use them!
 
 
