@@ -1,1 +1,0 @@
-SECRET_KEY='django-insecure-!=6(jgzvixdewng%egb(y)hk=os(08vc32$mahnga#&2aytvu('
