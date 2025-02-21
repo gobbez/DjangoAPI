@@ -1,5 +1,5 @@
 # DjangoAPI + AI Python Questions
-Some useful Django API for backend development and AI-generated question for Python&Django study!
+Some useful Django API for backend development and AI-generated questions for Python&Django study!
 
 ### Updates
 21/02 = Added Ollama LLM chatbot to dynamically generate Python questions in the table
