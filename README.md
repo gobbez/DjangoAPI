@@ -12,6 +12,7 @@ git clone https://github.com/gobbez/DjangoAPI
 ```
 Install requirements.txt:
 ```bash
+cd API
 pip install requirements.txt
 ```
 (optional, if you want to use Ollama to create questions)
@@ -25,7 +26,6 @@ python manage.py migrate
 ```
 Launch Django server:
 ```bash
-cd API
 python manage.py runserver
 ```
 
