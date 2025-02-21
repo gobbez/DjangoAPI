@@ -1,5 +1,6 @@
 <h2>DJANGO CRUD METHODS</h2>
-Django has ready-to-go methods for crud (for Example table).
+This is just an Example table using Django ready-to-go methods for crud 
+Check urls.py, views.py and models.py to see what you can do with this example table.
 
 <h3>✅ CREATE (add new record)</h3>
 method 1: 
