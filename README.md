@@ -1,5 +1,7 @@
 # DjangoAPI + AI Python Questions
-Some useful Django API for backend development and AI-generated questions for Python&Django study!
+Some useful Django API CRUD for backend development with Swagger for cool doc!
+
+Plus AI-generated questions for Python&Django study!
 
 ## Installation
 Clone this repo:
@@ -24,7 +26,16 @@ Launch Django server:
 ```bash
 python manage.py runserver
 ```
+Read the doc with every route and method on Swagger:
+```bash
+http://127.0.0.1:8000/swagger/
+```
+Or in Redoc:
+```bash
+http://127.0.0.1:8000/redoc/
+```
 
+------------------------------------------------------------------
 # Ollama AI-generated questions!
 Use Postman to do a Post request and enable Ollama to generate N questions about Python and Django!
 
